@@ -18,12 +18,12 @@
 <div align="center">
 
 ###Dashboard
-![Dashboard](https://raw.githubusercontent.com/Anideout/nvim/main/screenshots/dashboard.png)
+![Dashboard](screenshots/title.png)
 
 > *El dashboard con el logo ASCII personalizado y accesos rápidos a proyectos*
 
 ### Editor en Acción
-![Editor](https://raw.githubusercontent.com/Anideout/nvim/main/screenshots/editor.png)
+![Editor](screenshots/background.png)
 
 > *Vista dividida: configuración de avante.nvim (izquierda) y oil.nvim (derecha), con LSP activo*
 
