@@ -1,0 +1,3 @@
+{
+  "oracle_docker": "oracle://SYSTEM:oracle@localhost:1521/XEPDB1"
+}
